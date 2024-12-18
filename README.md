@@ -1,9 +1,9 @@
 # Python-Explore-Data-Analysis
 ## 🚀 Data-Driven Insights for Better Decision Making! 📊
 ### Presentation link : https://youtu.be/dEc2VmT-Pr0
-* I recently worked on a data analysis project focusing on key business performance metrics. Here’s what I did and learned:
-🔍 Key Focus Areas:
-1️⃣ Exploratory Data Analysis (EDA): Cleaned, visualized, and understood the data.
+# I recently worked on a data analysis project focusing on key business performance metrics. Here’s what I did and learned:
+- 🔍 Key Focus Areas:
+- 1️⃣ Exploratory Data Analysis (EDA): Cleaned, visualized, and understood the data.
 2️⃣ Revenue Analysis: Compared revenue before and after promotional campaigns.
 3️⃣ Correlation Insights: Analyzed the relationships between base price, quantity sold, and revenue after promotions.
 4️⃣ Category and City-Level Analysis: Identified trends across different product categories and cities.
