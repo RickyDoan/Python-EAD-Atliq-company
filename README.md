@@ -7,7 +7,7 @@
 - 2️⃣ Revenue Analysis: Compared revenue before and after promotional campaigns.
 - 3️⃣ Correlation Insights: Analyzed the relationships between base price, quantity sold, and revenue after promotions.
 - 4️⃣ Category and City-Level Analysis: Identified trends across different product categories and cities.
-- 💡 Insights Gained:
+### 💡 Insights Gained:
 - Promotions Work! Revenue increased significantly after running promotions.
 ### Category-Wise Trends: Certain product categories contributed more to post-promo revenue.
 - City-Level Impact: Specific cities showed stronger sales improvements, highlighting potential for further focus.
